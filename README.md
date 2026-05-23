@@ -11,7 +11,12 @@ A tiny Chrome extension that copies a screenshot of the **visible area of the cu
 - Chrome blocks screenshots on internal pages like `chrome://` and `chrome-extension://` (this is a Chrome security rule).
 - The extension does **not** collect, store, or transmit any data. Everything happens locally in your browser.
 
-## Install (Developer mode)
+## Install
+
+### From Chrome Web Store (Recommended)
+[Get Quick Screenshot → Clipboard on Chrome Web Store](https://chromewebstore.google.com/detail/quick-screenshot-%E2%86%92-clipbo/pimodklbppjmjnpmhaipihkfnbnldebh)
+
+### Install from source (Developer mode)
 1. Download or clone this repository
 2. Open Chrome and go to `chrome://extensions`
 3. Enable **Developer mode**
@@ -26,6 +31,9 @@ A tiny Chrome extension that copies a screenshot of the **visible area of the cu
 ## Permissions
 - `activeTab` — needed to capture the visible area of the active tab when you click the icon
 - `clipboardWrite` — needed to copy the screenshot image to your clipboard
+
+## Contact
+Questions, feedback, or issues? Reach out at [contact@ofcodedev.me](mailto:contact@ofcodedev.me)
 
 ## License
 MIT - see the LICENSE file.
