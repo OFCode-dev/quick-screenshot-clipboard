@@ -30,7 +30,7 @@ Perfect for bug reports, sharing snippets of pages, feeding screenshots to AI ch
 
 - 📸 **One click** — no region selection, no editor, no extra steps
 - 📋 **Straight to clipboard** — never touches your disk, no downloads folder clutter
-- 🪶 **Tiny** — a few KB, Manifest V3, no dependencies
+- ⚡ **Tiny** — a few KB, Manifest V3, no dependencies
 - 🔒 **Private by design** — no accounts, no tracking, no analytics, no data collection; everything runs locally
 - 🆓 **Free & open source** — MIT licensed
 
