@@ -8,6 +8,8 @@
 [![Chrome Web Store users](https://img.shields.io/chrome-web-store/users/pimodklbppjmjnpmhaipihkfnbnldebh?color=0060df)](https://chromewebstore.google.com/detail/quick-screenshot-%E2%86%92-clipbo/pimodklbppjmjnpmhaipihkfnbnldebh)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
+Brother extension of [Stitch Screenshot → Clipboard](https://chromewebstore.google.com/detail/stitch-screenshot-%E2%86%92-clipb/ldhpomojadcpocpghpdpinpmagjknfjh) — same philosophy (one click → clipboard), but for **full-page** captures.
+
 ## Install
 
 | Browser | Store |
